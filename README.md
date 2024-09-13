@@ -1,0 +1,1 @@
+# Predictive-Modelling-of-Stock-Trends-using-Global-Indices
